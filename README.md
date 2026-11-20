@@ -1,9 +1,5 @@
 # Álgebra Lineal — Primer cuatrimestre de 2016
 
-## Equipo docente
-
-- **Clases teóricas:** Teresa Krick
-
 ## Prácticas
 
 - [Práctica 1 - Matrices y sistemas de ecuaciones lineales.](AlgLineal-Practica1-1ro16.pdf)
